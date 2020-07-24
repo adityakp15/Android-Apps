@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">True Friend Quiz</string>
+    <string name="question_1">I am 20 years old</string>
+    <string name="question_2">I Hate Naruto</string>
+    <string name="question_3">I studied in Vidya Mandir</string>
+    <string name="question_4">I am a Twin</string>
+    <string name="question_5">I am the best at Among Us</string>
+    <string name="question_6">I am a night owl</string>
+    <string name="question_7">I am Funny</string>
+    <string name="question_8">I Support Real Madrid and Manchester United</string>
+    <string name="question_9">I hate Chicken 65</string>
+    <string name="question_10">I am 1\/cos(c)</string>
+    <string name="correct_answer">That\'s Correct !</string>
+    <string name="wrong_answer">That\'s Incorrect !</string>
+    <string name="icon">Icon</string>
+    <string name="todo">TODO</string>
+    <string name="true_text">True</string>
+    <string name="false_text">False</string>
+    <string name="next_text">Next </string>
+    <string name="previous_text">Prev</string>
+</resources>
